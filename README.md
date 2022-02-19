@@ -20,5 +20,5 @@
 - 👀 My subrepositories
   - Random tools [@UMUISM](https://github.com/North-Ember-Development/custom-random-scripts-and-tools) 
 
-- Organisation
-  - [North Ember Development](https://github.com/North-Ember-Development)
+- Organisations
+  - Main Public [North Ember Development](https://github.com/North-Ember-Development)
