@@ -1,7 +1,7 @@
+### Hi there 👋 My contacts
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vega0&theme=radical"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vega0&show_icons=true&theme=radical"/>
-
-### Hi there 👋 My contacts
 
 > [![STEAM](https://icons.iconarchive.com/icons/froyoshark/enkel/32/Steam-icon.png)](https://steamcommunity.com/id/aselockd)
 [![TWITTER](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/32/Web-Twitter-alt-2-Metro-icon.png)](https://twitter.com/aselockd)
