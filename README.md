@@ -1,6 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vega0&show_icons=true&hide=c&theme=vue-dark"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vega0&show_icons=true&theme=vue-dark&layout=compact"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vega0&layout=compact"/>
 
 ### Hi there 👋 My contacts
 
