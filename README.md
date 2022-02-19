@@ -13,8 +13,7 @@
 - https://soundcloud.com/aselock-1
 
 
-![image](https://user-images.githubusercontent.com/6493857/154788549-ec3c0131-b7d8-4aa0-b34d-3603c67f05b8.png)
-![image](https://user-images.githubusercontent.com/6493857/154788563-24044a6a-fd1e-4004-b13d-55c82339f815.png)
+![image](https://avatars.mds.yandex.net/get-ott/1652588/2a00000172747ec04f0a11d823c7b1ca7e69/1344x756)
 
 
 <!--
