@@ -23,4 +23,6 @@
   - Random tools [Scripts and Tools](https://github.com/North-Ember-Development/custom-random-scripts-and-tools) 
 - Organisations
   - Main Public [North Ember Development](https://github.com/North-Ember-Development)
+- Func fact
+  - Schizophrenia, Autism and Hyperactive. He-he D: 
 
