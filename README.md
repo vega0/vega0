@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋 My contacts
+
+steamcommunity.com/id/aselockd
+twitter.com/aselockd
+youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ
+github.com/vega0
+vk.com/aselockd
+facebook.com/aselockd
+t.me/aselockd
+discord.id <- 173026853332713472
+join.skype.com/invite/CncYs5bSiwGX
+icq.im/aselockd
+soundcloud.com/aselock-1
 
 <!--
 **vega0/vega0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +25,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
-  Hello World!
 -->
