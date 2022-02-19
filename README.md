@@ -1,14 +1,14 @@
 ### Hi there 👋 My contacts
 
-- [![STEAM](https://icons.iconarchive.com/icons/froyoshark/enkel/64/Steam-icon.png)](https://steamcommunity.com/id/aselockd)
-[![TWITTER](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/64/Web-Twitter-alt-2-Metro-icon.png)](https://twitter.com/aselockd)
-[![YOUTUBE](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/64/Web-Youtube-alt-2-Metro-icon.png)](https://youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ)
-[![VK](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/vk-icon.png)](https://vk.com/aselockd)
-[![FACEBOOK](https://icons.iconarchive.com/icons/martz90/hex/64/facebook-icon.png)](https://facebook.com/aselockd)
-[![TELEGRAM](https://icons.iconarchive.com/icons/froyoshark/enkel/64/Telegram-icon.png)](https://t.me/aselockd)
-[![SKYPE](https://icons.iconarchive.com/icons/danleech/simple/64/skype-icon.png)](https://join.skype.com/invite/CncYs5bSiwGX)
-[![ICQ](https://icons.iconarchive.com/icons/martz90/hex/64/icq-icon.png)](https://icq.im/aselockd)
-[![SOUNDCLOUD](https://icons.iconarchive.com/icons/designbolts/folded-social-media/64/SoundCloud-icon.png)](https://soundcloud.com/aselock-1)
+- [![STEAM](https://icons.iconarchive.com/icons/froyoshark/enkel/32/Steam-icon.png)](https://steamcommunity.com/id/aselockd)
+[![TWITTER](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/32/Web-Twitter-alt-2-Metro-icon.png)](https://twitter.com/aselockd)
+[![YOUTUBE](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/32/Web-Youtube-alt-2-Metro-icon.png)](https://youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ)
+[![VK](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/vk-icon.png)](https://vk.com/aselockd)
+[![FACEBOOK](https://icons.iconarchive.com/icons/martz90/hex/32/facebook-icon.png)](https://facebook.com/aselockd)
+[![TELEGRAM](https://icons.iconarchive.com/icons/froyoshark/enkel/32/Telegram-icon.png)](https://t.me/aselockd)
+[![SKYPE](https://icons.iconarchive.com/icons/danleech/simple/32/skype-icon.png)](https://join.skype.com/invite/CncYs5bSiwGX)
+[![ICQ](https://icons.iconarchive.com/icons/martz90/hex/32/icq-icon.png)](https://icq.im/aselockd)
+[![SOUNDCLOUD](https://icons.iconarchive.com/icons/designbolts/folded-social-media/32/SoundCloud-icon.png)](https://soundcloud.com/aselock-1)
 - https://discord.id <- 173026853332713472
 
 
