@@ -1,9 +1,9 @@
 ### Hi there 👋 My contacts
 
 - [STEAM](https://steamcommunity.com/id/aselockd)
-- [TWITTER](https://twitter.com/aselockd)
-- [YOUTUBE](https://youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ)
-- [VK](https://vk.com/aselockd)
+[TWITTER](https://twitter.com/aselockd)
+[YOUTUBE](https://youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ)
+[VK](https://vk.com/aselockd)
 - https://facebook.com/aselockd
 - https://t.me/aselockd
 - https://discord.id <- 173026853332713472
