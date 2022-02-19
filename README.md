@@ -3,7 +3,6 @@
 - https://steamcommunity.com/id/aselockd
 - https://twitter.com/aselockd
 - https://youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ
-- https://github.com/vega0
 - https://vk.com/aselockd
 - https://facebook.com/aselockd
 - https://t.me/aselockd
