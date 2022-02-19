@@ -14,7 +14,7 @@
 
 ![image](https://avatars.mds.yandex.net/get-ott/1652588/2a00000172747ec04f0a11d823c7b1ca7e69/1344x756)
 
-[winter-info]: https://the-winter-is-sparkling-and-frozen.io
+- [GloomyGhost.com](http://gloomyghost.com/)
 
 <!--
 **vega0/vega0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
