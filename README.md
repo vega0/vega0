@@ -6,10 +6,10 @@
 [VK](https://vk.com/aselockd)
 [FACEBOOK](https://facebook.com/aselockd)
 [TELEGRAM](https://t.me/aselockd)
-- https://discord.id <- 173026853332713472
 [SKYPE](https://join.skype.com/invite/CncYs5bSiwGX)
 [ICQ](https://icq.im/aselockd)
 [SOUNDCLOUD](https://soundcloud.com/aselock-1)
+- https://discord.id <- 173026853332713472
 
 
 ![image](https://avatars.mds.yandex.net/get-ott/1652588/2a00000172747ec04f0a11d823c7b1ca7e69/1344x756)
