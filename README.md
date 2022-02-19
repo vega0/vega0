@@ -3,7 +3,7 @@
 - [![STEAM](https://icons.iconarchive.com/icons/froyoshark/enkel/32/Steam-icon.png)](https://steamcommunity.com/id/aselockd)
 [![TWITTER](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/32/Web-Twitter-alt-2-Metro-icon.png)](https://twitter.com/aselockd)
 [![YOUTUBE](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/32/Web-Youtube-alt-2-Metro-icon.png)](https://youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ)
-[![VK](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/vk-icon.png)](https://vk.com/aselockd)
+[![VK](https://download.seaicons.com/icons/icons8/windows-8/32/Social-Networks-Vkontakte-icon.png)](https://vk.com/aselockd)
 [![FACEBOOK](https://download.seaicons.com/icons/danleech/simple/32/facebook-icon.png)](https://facebook.com/aselockd)
 [![TELEGRAM](https://icons.iconarchive.com/icons/froyoshark/enkel/32/Telegram-icon.png)](https://t.me/aselockd)
 [![SKYPE](https://icons.iconarchive.com/icons/danleech/simple/32/skype-icon.png)](https://join.skype.com/invite/CncYs5bSiwGX)
