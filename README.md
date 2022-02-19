@@ -13,7 +13,7 @@
 [![ICQ](https://icons.iconarchive.com/icons/martz90/hex/32/icq-icon.png)](https://icq.im/aselockd)
 [![SOUNDCLOUD](https://icons.iconarchive.com/icons/designbolts/folded-social-media/32/SoundCloud-icon.png)](https://soundcloud.com/aselock-1)
 [![DISCORD](https://user-images.githubusercontent.com/6493857/154789782-2102198b-41d7-4fce-a894-740f534ae580.png)](https://discord.id)
-- 173026853332713472
+- 173026853332713472 discord id to search.
 
 
 **vega0/vega0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
