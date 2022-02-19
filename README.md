@@ -3,14 +3,13 @@
 - [![STEAM](https://icons.iconarchive.com/icons/froyoshark/enkel/32/Steam-icon.png)](https://steamcommunity.com/id/aselockd)
 [![TWITTER](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/32/Web-Twitter-alt-2-Metro-icon.png)](https://twitter.com/aselockd)
 [![YOUTUBE](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/32/Web-Youtube-alt-2-Metro-icon.png)](https://youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ)
-[![VK](https://download.seaicons.com/icons/icons8/windows-8/32/Social-Networks-Vkontakte-icon.png)](https://vk.com/aselockd)
+[![VK](https://user-images.githubusercontent.com/6493857/154789626-efe730d4-4484-4d54-a6d3-a97d0858b97b.png)](https://vk.com/aselockd)
 [![FACEBOOK](https://download.seaicons.com/icons/danleech/simple/32/facebook-icon.png)](https://facebook.com/aselockd)
 [![TELEGRAM](https://icons.iconarchive.com/icons/froyoshark/enkel/32/Telegram-icon.png)](https://t.me/aselockd)
 [![SKYPE](https://icons.iconarchive.com/icons/danleech/simple/32/skype-icon.png)](https://join.skype.com/invite/CncYs5bSiwGX)
 [![ICQ](https://icons.iconarchive.com/icons/martz90/hex/32/icq-icon.png)](https://icq.im/aselockd)
 [![SOUNDCLOUD](https://icons.iconarchive.com/icons/designbolts/folded-social-media/32/SoundCloud-icon.png)](https://soundcloud.com/aselock-1)
 - https://discord.id <- 173026853332713472
-
 
 ![image](https://avatars.mds.yandex.net/get-ott/1652588/2a00000172747ec04f0a11d823c7b1ca7e69/1344x756)
 
