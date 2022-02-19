@@ -12,6 +12,10 @@
 - https://icq.im/aselockd
 - https://soundcloud.com/aselock-1
 
+
+![image](https://user-images.githubusercontent.com/6493857/154788549-ec3c0131-b7d8-4aa0-b34d-3603c67f05b8.png)
+
+
 <!--
 **vega0/vega0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
