@@ -20,3 +20,6 @@
   - Random tools [Scripts and Tools](https://github.com/North-Ember-Development/custom-random-scripts-and-tools) 
 - Organisations
   - Main Public [North Ember Development](https://github.com/North-Ember-Development)
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vega0&show_icons=true&theme=vue-dark"/>
