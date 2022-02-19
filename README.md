@@ -6,9 +6,9 @@
 [![VK](https://user-images.githubusercontent.com/6493857/154789626-efe730d4-4484-4d54-a6d3-a97d0858b97b.png)](https://vk.com/aselockd)
 [![FACEBOOK](https://download.seaicons.com/icons/danleech/simple/32/facebook-icon.png)](https://facebook.com/aselockd)
 [![TELEGRAM](https://user-images.githubusercontent.com/6493857/154789665-443a199d-badb-43b2-91b9-95578b55c9b4.png)](https://t.me/aselockd)
-[![SKYPE](https://icons.iconarchive.com/icons/danleech/simple/32/skype-icon.png)](https://join.skype.com/invite/CncYs5bSiwGX)
-[![ICQ](https://icons.iconarchive.com/icons/martz90/hex/32/icq-icon.png)](https://icq.im/aselockd)
-[123![SOUNDCLOUD](https://icons.iconarchive.com/icons/designbolts/folded-social-media/32/SoundCloud-icon.png)](https://soundcloud.com/aselock-1)
+[SKYPE![SKYPE](https://icons.iconarchive.com/icons/danleech/simple/32/skype-icon.png)](https://join.skype.com/invite/CncYs5bSiwGX)
+[ICQ![ICQ](https://icons.iconarchive.com/icons/martz90/hex/32/icq-icon.png)](https://icq.im/aselockd)
+[SOUNDCLOUD![SOUNDCLOUD](https://icons.iconarchive.com/icons/designbolts/folded-social-media/32/SoundCloud-icon.png)](https://soundcloud.com/aselock-1)
 - https://discord.id <- 173026853332713472
 
 <!--
