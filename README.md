@@ -1,6 +1,6 @@
 ### Hi there 👋 My contacts
 
-- [STEAM](https://steamcommunity.com/id/aselockd)
+- [![STEAM](https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png)](https://steamcommunity.com/id/aselockd)
 [TWITTER](https://twitter.com/aselockd)
 [YOUTUBE](https://youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ)
 [VK](https://vk.com/aselockd)
