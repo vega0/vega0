@@ -1,6 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vega0&show_icons=true&hide=c&theme=vue-dark"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vega0&show_icons=true&theme=vue-dark"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=North-Ember-Development&show_icons=true&theme=vue-dark"/>
 
 ### Hi there 👋 My contacts
 
