@@ -1,3 +1,6 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vega0&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vega0&show_icons=true&theme=radical"/>
+
 ### Hi there 👋 My contacts
 
 > [![STEAM](https://icons.iconarchive.com/icons/froyoshark/enkel/32/Steam-icon.png)](https://steamcommunity.com/id/aselockd)
@@ -22,8 +25,3 @@
   - Main Public [North Ember Development](https://github.com/North-Ember-Development)
 - ⊙.☉🤪 Func fact
   - Schizophrenia, Autism and Hyperactive. He-he D: 
-
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vega0&theme=radical"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vega0&show_icons=true&theme=radical"/>
