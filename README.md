@@ -1,16 +1,16 @@
 ### Hi there 👋 My contacts
 
-steamcommunity.com/id/aselockd
-twitter.com/aselockd
-youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ
-github.com/vega0
-vk.com/aselockd
-facebook.com/aselockd
-t.me/aselockd
-discord.id <- 173026853332713472
-join.skype.com/invite/CncYs5bSiwGX
-icq.im/aselockd
-soundcloud.com/aselock-1
+https://steamcommunity.com/id/aselockd
+https://twitter.com/aselockd
+https://youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ
+https://github.com/vega0
+https://vk.com/aselockd
+https://facebook.com/aselockd
+https://t.me/aselockd
+https://discord.id <- 173026853332713472
+https://join.skype.com/invite/CncYs5bSiwGX
+https://icq.im/aselockd
+https://soundcloud.com/aselock-1
 
 <!--
 **vega0/vega0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
