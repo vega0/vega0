@@ -4,7 +4,7 @@
 [![TWITTER](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/32/Web-Twitter-alt-2-Metro-icon.png)](https://twitter.com/aselockd)
 [![YOUTUBE](https://user-images.githubusercontent.com/6493857/154789131-6fbe9fec-e4e1-47f6-b614-bdcd877acc36.png)](https://youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ)
 [![VK](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/vk-icon.png)](https://vk.com/aselockd)
-[FACEBOOK](https://facebook.com/aselockd)
+[![FACEBOOK](https://icons.iconarchive.com/icons/martz90/hex/32/facebook-icon.png)](https://facebook.com/aselockd)
 [TELEGRAM](https://t.me/aselockd)
 [SKYPE](https://join.skype.com/invite/CncYs5bSiwGX)
 [ICQ](https://icq.im/aselockd)
