@@ -17,6 +17,6 @@
 
 - 📊 Website [emb3r.club](http://emb3r.club/)
 - 👀 My subrepositories
-  - Random tools [@UMUISM](https://github.com/North-Ember-Development/custom-random-scripts-and-tools) 
+  - Random tools [Scripts and Tools](https://github.com/North-Ember-Development/custom-random-scripts-and-tools) 
 - Organisations
   - Main Public [North Ember Development](https://github.com/North-Ember-Development)
