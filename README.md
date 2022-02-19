@@ -27,4 +27,4 @@
   - Schizophrenia, Autism and Hyperactive. He-he D: 
 
 
-![image](https://wallpaperaccess.com/full/4675468.jpg)
+![Дизайн без названия](https://user-images.githubusercontent.com/6493857/154791108-d41c2241-cc63-4fa9-9dd2-db5175c914a6.png)
