@@ -25,3 +25,6 @@
   - Main Public [North Ember Development](https://github.com/North-Ember-Development)
 - ⊙.☉🤪 Func fact
   - Schizophrenia, Autism and Hyperactive. He-he D: 
+
+
+![image](https://user-images.githubusercontent.com/6493857/154790845-ab3ea555-697d-4982-90e6-9e67da089ecf.png)
