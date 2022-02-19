@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vega0"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vega0&theme=radical"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vega0&show_icons=true&theme=radical"/>
 
 ### Hi there 👋 My contacts
