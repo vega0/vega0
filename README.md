@@ -31,7 +31,7 @@
 
 
 <img align='left' src="https://sun9-79.userapi.com/impg/HP8c88Ncrj71LSlRfT2w0qPCLC7JHy6zQO4Fgw/VECaO7wdyZg.jpg?size=1080x1080&quality=96&sign=e76d6ae2aa21049e4b749417f2c27fb5&type=album" width="128" height="128">
-<img align='left' src="https://sun9-71.userapi.com/impg/rKwjgWwPUKPW1b6C1zNdYGv2dCMJohVdUbFzug/zseRqoJ-SiU.jpg?size=1079x1079&quality=96&sign=be6274b0fe0b1b4401ecafd77d5c0ca3&type=album" width="128" height="128">
+<img align='left' style="margin-left: 0;" src="https://sun9-71.userapi.com/impg/rKwjgWwPUKPW1b6C1zNdYGv2dCMJohVdUbFzug/zseRqoJ-SiU.jpg?size=1079x1079&quality=96&sign=be6274b0fe0b1b4401ecafd77d5c0ca3&type=album" width="128" height="128">
 <img align='left' src="https://sun9-2.userapi.com/impg/u6ten-mrhxqkft3w8El6ChLWoJiQUCZvd598qQ/N2EDFqifZdk.jpg?size=1080x1080&quality=96&sign=89217bb5a50a7e3dbf3a71298472ad57&type=album" width="128" height="128">
 <img align='left' src="https://sun9-67.userapi.com/impg/1t-1s00Xjb_ZmJbe8C2RP9KZBen5pWoA7_waFw/E6TbvfmY3Yc.jpg?size=1080x1080&quality=96&sign=5b9eb5aed007a6634a8f78d32747517b&type=album" width="128" height="128">
 <img align='left' src="https://sun9-88.userapi.com/impg/MMAAeuteap-i0KeY1X59yT9os6m78rfkCfrIhg/oh4g3DtD_X4.jpg?size=900x875&quality=96&sign=647ecc2183edca130f04394f7776846d&type=album" width="128" height="128">
