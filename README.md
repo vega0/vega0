@@ -18,13 +18,13 @@
 
 **vega0/vega0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 📊 Website `[emb3r.club](http://emb3r.club/)`
+- 📊 Website [emb3r.club](http://emb3r.club/)
 - 👀 My, probably useful subrepositories
   - Random tools [Scripts and Tools](https://github.com/North-Ember-Development/custom-random-scripts-and-tools) 
 - Organisations
   - Main Public [North Ember Development](https://github.com/North-Ember-Development)
 - ⊙.☉🤪 Func fact
-  - ``Schizophrenia``, Autism and Hyperactive. He-he D: 
+  - ~Schizophrenia~, Autism and Hyperactive. He-he D: 
 
 
 ![Снимок экрана 2022-02-19 1317522](https://user-images.githubusercontent.com/6493857/154791240-2250b479-5f36-41ff-a2e7-f16e17dfb948.png)
