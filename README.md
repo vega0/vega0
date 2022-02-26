@@ -1,8 +1,5 @@
 ### Hi there 👋 My contacts
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vega0&theme=radical"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vega0&show_icons=true&theme=radical"/>
-
 > [![STEAM](https://icons.iconarchive.com/icons/froyoshark/enkel/32/Steam-icon.png)](https://steamcommunity.com/id/aselockd)
 [![TWITTER](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/32/Web-Twitter-alt-2-Metro-icon.png)](https://twitter.com/aselockd)
 [![YOUTUBE](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/32/Web-Youtube-alt-2-Metro-icon.png)](https://youtube.com/channel/UCby1U7eVfQOccOYRU6kr1BQ)
@@ -32,3 +29,6 @@
 
 <img align='top' src="https://sun9-79.userapi.com/impg/HP8c88Ncrj71LSlRfT2w0qPCLC7JHy6zQO4Fgw/VECaO7wdyZg.jpg?size=1080x1080&quality=96&sign=e76d6ae2aa21049e4b749417f2c27fb5&type=album" width="512" height="512">
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vega0&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vega0&show_icons=true&theme=radical"/>
