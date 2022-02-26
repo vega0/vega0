@@ -18,7 +18,7 @@
 
 **vega0/vega0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 📊 Website [emb3r.club](http://emb3r.club/)
+- 📊 Website `[emb3r.club](http://emb3r.club/)`
 - 👀 My, probably useful subrepositories
   - Random tools [Scripts and Tools](https://github.com/North-Ember-Development/custom-random-scripts-and-tools) 
 - Organisations
