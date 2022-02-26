@@ -35,3 +35,5 @@
 <img align='left' src="https://sun9-2.userapi.com/impg/u6ten-mrhxqkft3w8El6ChLWoJiQUCZvd598qQ/N2EDFqifZdk.jpg?size=1080x1080&quality=96&sign=89217bb5a50a7e3dbf3a71298472ad57&type=album" width="128" height="128">
 <img align='left' src="https://sun9-67.userapi.com/impg/1t-1s00Xjb_ZmJbe8C2RP9KZBen5pWoA7_waFw/E6TbvfmY3Yc.jpg?size=1080x1080&quality=96&sign=5b9eb5aed007a6634a8f78d32747517b&type=album" width="128" height="128">
 <img align='left' src="https://sun9-88.userapi.com/impg/MMAAeuteap-i0KeY1X59yT9os6m78rfkCfrIhg/oh4g3DtD_X4.jpg?size=900x875&quality=96&sign=647ecc2183edca130f04394f7776846d&type=album" width="128" height="128">
+<img align='left' src="https://sun9-12.userapi.com/impg/AtFbtg9ylzCbJAO2YPhmvUB2nzz6H3MlIbo3GQ/TR2Kbn-_VRg.jpg?size=748x752&quality=96&sign=3b864cbb00e4dc4faf5986c66b99b67c&type=album" width="128" height="128">
+<img align='left' src="https://sun9-64.userapi.com/impg/MzIGugfdFuWa4XL7npXTtqSXZFhAU2Gsg4zsqA/-l9C5y0MIGs.jpg?size=1159x1600&quality=96&sign=ad81a5a79c8be6febc1b6ef2185cc4c5&type=album" width="128" height="128">
