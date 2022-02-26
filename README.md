@@ -1,3 +1,6 @@
+![Снимок экрана 2022-02-19 1317522](https://user-images.githubusercontent.com/6493857/154791240-2250b479-5f36-41ff-a2e7-f16e17dfb948.png)
+
+
 ### Hi there 👋 My contacts
 
 > [![STEAM](https://icons.iconarchive.com/icons/froyoshark/enkel/32/Steam-icon.png)](https://steamcommunity.com/id/aselockd)
@@ -25,7 +28,3 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vega0&theme=radical"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vega0&show_icons=true&theme=radical"/>
-
-
-![Снимок экрана 2022-02-19 1317522](https://user-images.githubusercontent.com/6493857/154791240-2250b479-5f36-41ff-a2e7-f16e17dfb948.png)
-
