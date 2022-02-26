@@ -29,4 +29,4 @@
 
 ![Снимок экрана 2022-02-19 1317522](https://user-images.githubusercontent.com/6493857/154791240-2250b479-5f36-41ff-a2e7-f16e17dfb948.png)
 
-![draggon-age](https://sun9-79.userapi.com/impg/HP8c88Ncrj71LSlRfT2w0qPCLC7JHy6zQO4Fgw/VECaO7wdyZg.jpg?size=1080x1080&quality=96&sign=e76d6ae2aa21049e4b749417f2c27fb5&type=album)
+![draggon-age](https://sun9-79.userapi.com/impg/HP8c88Ncrj71LSlRfT2w0qPCLC7JHy6zQO4Fgw/VECaO7wdyZg.jpg?size=1080x1080&quality=96&sign=e76d6ae2aa21049e4b749417f2c27fb5&type=album | width=156)
