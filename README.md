@@ -23,7 +23,7 @@
   - 🎲 Random tools [Scripts and Tools](https://github.com/North-Ember-Development/custom-random-scripts-and-tools) 
 - 🗂️📊🗓️ Organisations
   - 📦 Main Public [North Ember Development](https://github.com/North-Ember-Development)
-- ⊙.☉🤪 Func fact
+- ⊙.☉ Func fact
   - ~Schizophrenia~, ~Autism~ and ~Hyperactive~. He-he `D:` 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vega0&theme=radical"/>
